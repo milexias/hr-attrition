@@ -1,6 +1,3 @@
-# hr-attrition
-Projeto em PowerBI e Python (biblioteca Plotly e Seaborn)
-
 # Dashboard RH Attrition Analysis 
 
 <p align="center">
@@ -8,7 +5,7 @@ Projeto em PowerBI e Python (biblioteca Plotly e Seaborn)
 </p>
 
 ## Objetivo do Estudo:
-Este dashboard complementa o estudo sobre a rotatividade de colaboradores da IBM. Tem como objetivo analisar padrões e tendências para que o RH possa desenvolver estratégias para reduzir as taxas de desligamento.
+Este dashboard complementa o estudo sobre a rotatividade de colaboradores de uma determinada empresa. Tem como objetivo analisar padrões e tendências para que o RH possa desenvolver estratégias para reduzir as taxas de desligamento.
 
 ## Importância da Rotatividade de Colaboradores:
 A rotatividade representa uma diminuição inesperada na força de trabalho, podendo esgotar os recursos internos de uma empresa. Este projeto foca em analisar e compreender os elementos que impactam a rotatividade, detectar padrões nos dados e fornecer insights para a gestão de RH.
