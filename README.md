@@ -13,10 +13,6 @@ O projeto foi desenvolvido principalmente em **Python**, utilizando as bibliotec
 Você pode acessar o link abaixo para visualizá-lo:
  - 🔗 [Notebook](https://nbviewer.org/github/milexias/hr-attrition/blob/main/hr_employee.ipynb)
 
- <p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/general_satisfaction.png"/>
-</p>
-
 <p align="center">
   <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/boxplot_education.png"/>
 </p>
@@ -42,7 +38,7 @@ Além disso, você pode acessar o link abaixo para fazer o download do dashboard
  - 🔗 [Dashboard](https://github.com/milexias/hr-attrition/blob/main/Hr_Attrition.pbix)
 
 ## Fonte de Dados:
-Os dados foram coletados do YouTube, bem como, as categorizações das variáveis.
+Os dados foram coletados do Kaggle, bem como, as categorizações das variáveis.
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/alexia-ssantos/)
