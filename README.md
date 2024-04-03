@@ -11,7 +11,7 @@ A rotatividade representa uma diminuição inesperada na força de trabalho, pod
 ### Análise em Python
 O projeto foi desenvolvido principalmente em **Python**, utilizando as bibliotecas Plotly e Seaborn. A documentação e análises foram feitas diretamente no notebook. 
 Você pode acessar o link abaixo para visualizá-lo:
- - 🔗 [Notebook](https://nbviewer.org/github/milexias/hr-attrition/blob/main/hr_employee.ipynb)
+ - 🔗 [Notebook](https://github.com/milexias/hr-attrition/blob/main/hr_employee_attrition.ipynb)
 
 <p align="center">
   <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/boxplot_education.png"/>
