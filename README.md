@@ -27,25 +27,25 @@ Vamos olhar os índices de satisfação dos funcionários atuais para tentarmos 
 </p>
 
 <p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/ambiente_trabalho.png"/>
+  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/ambiente_trabalho.png"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/estado_civil.png"/>
+  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/estado_civil.png"/>
 </p>
 
 Funcionários com baixa satisfação e status civil de solteiro ou divorciado têm maior probabilidade de deixar a empresa.
 
 <p align="center">
+  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/renda_genero.png"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/renda_educacao.png"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/renda_area_atuacao.png"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/renda_educacao.png"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/dash_hr_attrition.png"/>
 </p>
 
 Não há disparidades salariais por gênero, mas a remuneração está correlacionada com o nível educacional.
@@ -57,7 +57,7 @@ Podemos perceber também que a distribuição salarial é bem próxima nas difer
 </p>
 
 <p align="center">
-  <img src="https://github.com/milexias/hr-attrition/blob/main/idade_anos_trabalho.png"/>
+  <img src="https://github.com/milexias/hr-attrition/blob/main/imagens/idade_anos_trabalho.png"/>
 </p>
 
 Uma distribuição equilibrada de idades indica uma força de trabalho diversificada.
